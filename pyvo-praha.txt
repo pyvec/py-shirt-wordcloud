@@ -1,0 +1,748 @@
+   Pyvo.cz 🌎 English, please!
+
+                                  Pražské Pyvo
+
+   Pražské Pyvo bývá každou třetí středu v měsíci.
+
+   Scházíme se v soukromém klubu Na Věnečku, takže nikde není žádná (např.
+   pivní) cedule. Nechceš-li bloudit, přijď na sraz v 18:30 před Equa Bank
+   (dříve iStyle) na Andělu, odkud tě organizátoři zavedou na místo.
+
+   Pro samostatné a nestíhače: Kdyz se Ostrovského ulice změní na chodník,
+   jděte cca 50m do kopce. Po pravé straně narazíte na poměrně velkou bránu
+   do dvora.
+
+Poslední sraz
+
+   17. 8. 2016 · 19:00 Pražské PyVo #65 HOW to SUMMER #2
+   Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000 → mapa
+   (mapy.cz)
+
+Historie srazů
+
+     * 20. 7. 2016 · 19:00 Pražské PyVo #64 HOW to SUMMER
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 15. 6. 2016 · 19:00 Pražské PyVo #63 HOW to Leverage IaaS
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 18. 5. 2016 · 19:00 Pražské PyVo #62 HOW To TEST
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Co je testovani? Potrebuji to? Jak na to?
+               * Petr Viktorin
+          * py.test prakticky
+               * starenka
+          * dredd
+               * Honza Javorek
+          * Testing API Responses
+               * Petr Messner
+     * 20. 4. 2016 · 19:00 Pražské PyVo #61 HOW
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Hardware password manager
+               * Ondrej Mikle
+            Most password managers have one intrinsic vulnerability - once
+            you unlock them with passphrase, they can be scraped from memory
+            - all the passwords at once. With Trezor-backed password manager,
+            only one password group is unlocked at a time. And it requires
+            physical access to Trezor token.
+          * Cython talk/video sneak peek
+               * Miro Hrončok
+            Jestli se chcete naučit něco o Cythonu, koukněte na
+            [video](https://www.youtube.com/watch?v=Ksv4RA6yhkY), kde o
+            Cythonu hoďku a půl povídám.
+          * (Nejen) algoritmické obchodování v Pythonu
+               * Vita Smid
+            Lightning talk o dosud tajném projektu, který vedu. Vyvíjíme
+            polo-automatickou platformu na obchodování na finančních trzích +
+            spoustu infrastruktury kolem. Financuje nás investiční banka, ale
+            jedeme jako startup na bleeding edge verzích, open source, a
+            každodenních deployích. Stavíme vše na asyncio, máme UI v Reactu,
+            data skladujeme v PostgreSQL a analyzujeme s Pandas a Scipy.
+            Machine learning modely nám počítají GPU farmy na AWS. Pokud vás
+            to zajímá, klidně mi napište na vita.smid@wood.cz.
+     * 16. 3. 2016 · 19:00 Pražské PyVo #60 HOW to Open Source
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 17. 2. 2016 · 19:00 Pražské PyVo #59 HOW MQ
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Message Queues
+               * Jiri Barton
+            lehky uvod
+          * [IMG] 
+            rq
+               * starenka
+          * [IMG] 
+            django-q
+               * Jiri Barton
+          * [IMG] 
+            ZeroMQ
+               * Tomáš Bedřich
+          * [IMG] 
+            Retask
+               * Miro Hrončok
+          * [IMG] 
+            Grafový editor
+               * Timothy Hobbs
+     * 20. 1. 2016 · 19:00 Pražské PyVo #58 How Auth
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Auth*
+               * Jiri Barton
+               * Jakub Vysoký
+          * [IMG] 
+            Auth-Neauth
+               * Ales Zoulek
+     * 16. 12. 2015 · 19:00 Pražské PyVo #57
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * e-Nable: 3D print a helping hand
+               * Miro Hrončok
+            e-Nable is a community project about open source 3D printed upper
+            limb prosthetic donated to kids. Let's see how it works and how
+            does the plastic hand look like.
+          * Interfacing NFC smartcards in Python
+               * Ondrej Mikle
+            We will show a daemon that wraps libnfc via swig. This daemon
+            authenthicates user either via ISO14443A UID or Yubikey HMAC-SHA1
+            over NFC. The sample shows how the authenthication can be used to
+            unlock door with WiringPi. Raspberry Pi (Raspbian) was the
+            original target platform, but it can work on any platform that
+            libnfc supports, including x86.
+     * 18. 11. 2015 · 19:00 Pražské PyVo #56
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 21. 10. 2015 · 19:00 Pražské PyVo #55
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 16. 9. 2015 · 19:00 Pražské PyVo #54
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Co je nového v Pythonu 3.5
+               * Petr Viktorin
+          * URLjects
+               * Visgean Skeloru
+          * Barman
+               * Viktor Stískala
+            Point-In-Time Recovery v PostgreSQL a Barman
+            (http://www.pgbarman.org/)
+     * 19. 8. 2015 · 19:00 Pražské PyVo #53 more summer
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            React JS
+               * Petr Messner
+          * URLjects
+               * Visgean Skeloru
+          * [IMG] 
+            Ruby blocks in Python
+               * Tomáš Bedřich
+          * [IMG] 
+            pyvo.cz: Data v Gitu
+               * Petr Viktorin
+          * Práce v Seznamu
+          * Fixa
+     * 15. 7. 2015 · 19:00 Pražské PyVo #52 summer
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Clojure
+               * Dom Kiva-Meyer
+          * Project Cloudly
+               * Jan Paricka
+            Servers Monitoring in the Cloud.
+          * [IMG] 
+            PyCon PL
+               * Filip Kłębczyk
+          * PyLadies report
+          * [IMG] 
+            Call for Help
+               * Honza Javorek
+          * [IMG] 
+            .pyc, async/await, EuroPython
+               * Petr Viktorin
+     * 17. 6. 2015 · 19:00 Pražské PyVo #51 search
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            (Elastic)search - What is this "search"?
+               * Honza Král
+            Jak funguje fulltext
+          * [IMG] 
+            Vyhledávání v Djangu pro chudé
+               * Jirka Vejrazka
+            aneb jak vyhledávat, pokud je pro vás ElasticSearch příliš velký
+          * [IMG] 
+            (Elastic)search - Python DSL
+               * Honza Král
+            Jak pouzit Elasticsearch z pythonu
+          * PyLadies Praha
+          * [IMG] 
+            Pycon CZ
+               * Honza Javorek
+               * Jakub Vysoký
+          * BTS in a Pocket
+               * Josef Liška
+     * 20. 5. 2015 · 19:00 Pražské PyVo #50 anniversary
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 15. 4. 2015 · 19:00 Pražské PyVo #49
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * <remove this>
+          * RAML and Flask for API: the Story
+               * Jan Killian
+            Modelling API in Rest API Markup Language. Using RAML model for
+            automatic parameter conversion/validation, and mock-up server in
+            Flask.
+          * Django REST framework
+               * Ales Zoulek
+          * Django REST framework - moje postřehy
+               * Jirka Vejrazka
+          * PATCH
+               * Honza Javorek
+     * 18. 3. 2015 · 19:00 Pražské PyVo #48 Zase Docker
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Docker & Autoscaling
+               * Tomáš Plešek
+          * [IMG] 
+            Optimalizace v Pythonu
+               * Jan Seifert
+          * [IMG] 
+            Django Girls Praha
+               * Honza Javorek
+          * [IMG] 
+            Knihovnička, EuroPython
+               * Petr Viktorin
+          * [IMG] 
+            Docker Meetup 24. 3.
+               * Jakub Veverka
+          * [IMG] 
+            PEP 489 draft
+               * Petr Viktorin
+     * 18. 2. 2015 · 19:00 Pražské PyVo #47
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Kitchen CI
+               * Ales Zoulek
+          * [IMG] 
+            Koučování
+          * [IMG] 
+            Pozvánka na seminář o Axaptě
+          * [IMG] 
+            Nový python.cz
+               * Honza Javorek
+          * [IMG] 
+            Pyvařská knihovnička
+               * Petr Viktorin
+          * [IMG] 
+            film2trello
+               * Honza Javorek
+          * [IMG] 
+            Benchmarking - Python vs. jiné jazyky
+          * [IMG] 
+            Python v rozhlase
+          * [IMG] 
+            Závěr
+     * 21. 1. 2015 · 19:00 Pražské PyVo #46 Docker
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Docker
+               * Vaclav Pavlín
+          * [IMG] 
+            Docker v roští.cz
+               * Adam Štrauch
+          * [IMG] 
+            docker-py
+               * Tomáš Tomeček
+          * [IMG] 
+            Docker Mesos Cluster
+               * Jakub Veverka
+          * [IMG] 
+            Lightning Talks
+            Vašek Chalupníček – Kde už Docker neposlouží Miro Hrončok –
+            Developer Assistant – Django+Docker ve dvou minutách Petr
+            Viktorin – DevConf.cz 2015 Docker & závislosti na binárce Docker
+            meetup
+     * 17. 12. 2014 · 19:00 Pražské PyVo #45
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Micropython demo
+               * Petr Viktorin
+          * RepRap 3D printers (and Python software projects to control them)
+     * 19. 11. 2014 · 19:00 Pražské PyVo #44
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Towards maintenance
+               * Jiri Barton
+          * Animace
+               * Petr Viktorin
+          * Python 3
+               * Petr Viktorin
+          * Java
+          * [IMG] 
+            PyCon UK
+               * Jan Seifert
+     * 15. 10. 2014 · 19:00 Pražské PyVo #43 production infrastructure
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Sensu on steroids
+               * Ales Zoulek
+          * [IMG] 
+            Openshift
+               * Radek Svarz
+          * ElasticSearch + Logstash + Kibana: the ELK stack
+               * Ales Zoulek
+          * [IMG] 
+            New Relic
+          * [IMG] 
+            Fossil
+     * 17. 9. 2014 · 19:00 Pražské PyVo #42 work&travel
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Startup in SF
+               * Maksim Izmaylov
+          * Zabava s open-source
+               * Honza Král
+          * Prace u more
+               * Ales Zoulek
+     * 20. 8. 2014 · 19:11 Pražské PyVo #41
+       Cyril's Pub, Bozděchova 8, Praha 5, 150 00
+     * 16. 7. 2014 · 19:00 Pražské PyVo #40
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 18. 6. 2014 · 19:00 Pražské PyVo #39 django
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * What's New in Django 1.7
+               * Baptiste Mispelon
+          * django-allauth
+               * Martin
+          * Hacks around Django Settings
+               * Ales Zoulek
+     * 21. 5. 2014 · 19:00 Pražské PyVo #38 cms
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Mezzanine
+               * Radek Svarz
+          * Ella
+               * Honza Král
+          * Pelican
+               * Petr Viktorin
+          * Rails Girls
+               * DJ Phokz
+          * Wagtail Django CMS
+               * Martin
+          * nic.cz unboxing
+               * Petr Viktorin
+     * 16. 4. 2014 · 19:00 Pražské PyVo #37 openssl
+       Prague
+          * HeartBleed
+               * Jirka Vejrazka
+          * Websocketem do browseru
+               * Jiří Kaipr
+               * DJ Phokz
+     * 19. 3. 2014 · 19:00 Pražské PyVo #36 docs
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Confluence
+               * Tomáš Bílek
+          * Dexy
+               * Martin Putniorz
+            How to use dexy in 5 minutes
+     * 19. 2. 2014 · 19:00 Pražské PyVo #35 message queues
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * RabbitMQ
+               * Jiří Kubíček
+          * Azure Queue Storage
+               * Stanislav Prokop
+            Windows Azure overview, Windows Azure Queue Service usage. Python
+            Mock - Mocking and Testing Library.
+          * replace orbited with jabber
+               * Josef Liška
+          * python queues
+               * Jiri Barton
+          * gravity light
+               * Jakub Vysoký
+          * xmonad
+               * Tomáš Ehrlich
+          * what is devops
+               * Zdenek Janda
+          * faker
+               * starenka
+          * django dynamic fixture
+               * Roman Krejčík
+          * Mock
+               * Stanislav Prokop
+     * 15. 1. 2014 · 19:00 Pražské PyVo #34 virtualenv
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            virtualenv+pip
+               * Jakub Vysoký
+          * [IMG] 
+            Proč nepoužívat virtualenv
+               * Petr Viktorin
+          * [IMG] 
+            Jak sháníme pythonisty v Outcommu
+               * Daniel Srb
+          * [IMG] 
+            PEP 405 - Python Virtual Environments
+               * Petr Viktorin
+          * [IMG] 
+            virtualenvwrapper
+               * Jiri Barton
+          * [IMG] 
+            smoker testing tool
+               * Filip Pytloun
+          * [IMG] 
+            bakalarka devassistant
+               * Miro Hrončok
+          * devconf.cz
+               * Petr Viktorin
+          * [IMG] 
+            multi py envs on mac
+               * Honza Král
+          * [IMG] 
+            navykove git hooky
+               * Lukas Rychtecky
+          * [IMG] 
+            proc nepouzivat virtualenv ani docker.io ani nic podobneho
+               * Miro Hrončok
+     * 18. 12. 2013 · 19:00 Pražské PyVo #33 vanoce
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Topení v Pythonu
+               * Ales Zoulek
+          * [IMG] 
+            LED strip
+               * Petr Viktorin
+          * [IMG] 
+            Bezdrátová klávesnice
+               * Petr Viktorin
+          * [IMG] 
+            Micro Python board
+               * Tomáš Bedřich
+     * 20. 11. 2013 · 19:11 Pražské PyVo #32 API
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Platebni API
+               * Roman Krejčík
+          * [IMG] 
+            REST API MANUAL
+               * Honza Javorek
+            Jak navrhnout API tak, aby bylo opravdu RESTful.
+          * lightning talks
+            mirek - foxpro like open file -
+            https://github.com/zvolsky/vfp/b... @tbedrich - vlastni api radim
+            - velka data lubos matl - soap vs rest -> rfc 2616 lukas
+            rychtecky - kos api martin @donnmums - facebook api python petr
+            viktorin - pil api or ? honza kral - how to api ES jirkav -
+            domaci router mikrotik jardav - codecademy.com #python #l10n
+            martin putniorz - ostrava pyvo jirka barton -> pyvo #33
+     * 16. 10. 2013 · 19:00 Pražské PyVo #31 online tools
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Google AppEngine
+               * Robin Gottfried
+          * Github issues vs.
+               * Jiri Barton
+          * RuPy 2013
+               * Ales Zoulek
+     * 18. 9. 2013 · 19:00 Pražské PyVo #30 devops
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Salt
+               * Ales Zoulek
+          * [IMG] 
+            Ansible
+               * Jiří Kubíček
+          * Puppet, Foreman
+          * [IMG] 
+            Lightning Talks
+     * 21. 8. 2013 · 19:00 Pražské PyVo #29 openstack
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * OpenStack
+               * Nikola Đipanov
+          * setuptools or distutils?
+               * Jakub Vysoký
+            what is what
+          * Golf
+               * starenka
+          * RuPy 2013
+               * Jiri Barton
+          * PyFakturiod
+               * Roman Krejčík
+            python api for fakturoid.cz
+          * Zákeřný eval()
+               * Petr Viktorin
+     * 17. 7. 2013 · 19:00 Pražské PyVo #28 na grillu
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * intro
+          * collectd-web
+               * yac
+          * Zato ESB and backend application server
+               * Dariusz Suchojad
+            Zato is a Python-based ESB and backend application server for
+            integrations and API-only aplications running in SOA. Tech
+            overview on InfoQ - http://www.infoq.com/articles/zato Project's
+            docs - https://zato.io/docs/index.html
+          * Data-Fu with pandas
+               * Franta
+     * 19. 6. 2013 · 19:00 Pražské PyVo #27 security
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            SSL certificates minimum + live demo
+               * Jiri Barton
+          * [IMG] 
+            Hacknuti webserveru
+               * Jirka Vejrazka
+          * [IMG] 
+            Velke chyby na velkych portalech
+               * Miloslav Pojman
+          * [IMG] 
+            lightning talks
+               * Jakub Vysoký
+               * Adam Kliment
+               * dosky
+               * Honza Král
+               * Jiri Barton
+               * Ales Zoulek
+            honza kral - ella/django security notes dosky - ctete security
+            notes ales zoulek - djangocon a jine koneference adam kliment -
+            apiary.io blueprints jiri barton - nejacatejsi hesla jakub vysoky
+            - zizalarium, aneb jak vybudovat zizalovnik
+     * 15. 5. 2013 · 19:00 Pražské PyVo #26 + CSRUG
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            AngularJS
+               * Ladislav Prskavec
+            AngularJS je Javascriptovy framework, ktery vam umozni rozsirit
+            HTML o vlastni elementy a velmi dobre psat single page aplikace.
+            Deklarativni psani sablon, vyborna testovatelnost a podpora
+            Googlem jsou hlavni devize toho frameworku.
+          * [IMG] 
+            Espresso
+               * Josef Pospíšil
+          * [IMG] 
+            Flask
+               * starenka
+     * 17. 4. 2013 · 19:00 Pražské PyVo #25 policing code
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Travis CI
+               * Honza Král
+          * Code Reviews FTW!
+               * David Majda
+               * Josef Reidinger
+            V SUSE jsme v některých týmech cca před rokem začali používat
+            code reviews. Jaké jsou naše zkušenosti a jaké vidíme výhody? Jak
+            vlastně vypadá správné code review? Na co by se měl reviewer
+            zaměřit a čemu se naopak vyhnout? A mají code reviews smysl i pro
+            vás? Na tyto otázky zkusíme dát odpověď.
+     * 20. 3. 2013 · 19:00 Pražské PyVo #24 tools Le Mans
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            nano
+               * Jiri Barton
+          * [IMG] 
+            vim
+               * Jan Pobrislo
+          * Emacs
+               * Jozef Sevcik
+               * Vašek Král
+          * [IMG] 
+            PyCharms
+               * Vladimír Gorej
+          * [IMG] 
+            Sublime Text 2
+               * Honza Javorek
+          * Windows-only editor
+               * Jirka Vejrazka
+     * 20. 2. 2013 · 19:00 Pražské PyVo #23 lets talk about APIs
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            HTTP API a Py
+               * Milan Cermak
+          * [IMG] 
+            tastypie prakticky
+               * Vladimír Gorej
+          * [IMG] 
+            Agile API development with Apiary.io
+               * Almad
+          * [IMG] 
+            Google Apps API na App Engine
+               * Jan Killian
+            Quick overview: Google API verze a knihovny, OAuth 1/2,
+            implementace v GAE tasku, optimalizace, GAE tasku
+     * 16. 1. 2013 · 19:00 Pražské PyVo #22 python language anniversary
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            Magické metody v Pythonu (ochutnávka)
+               * Jirka Vejrazka
+          * [IMG] 
+            deskriptory
+               * Honza Král
+          * [IMG] 
+            Jython
+               * Shanoi Alaif
+     * 19. 12. 2012 · 19:00 Pražské PyVo #21 christmas edition
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * bongo bong on makey makey
+               * starenka
+            je mozne bubnovat na lidi?
+          * reprap build status
+               * Jakub Vysoký
+            uz o tom melu nekolik mesicu, tak schvalne, jak na tom budu pred
+            vanoci..
+          * arduino tank
+               * Jiří Kubíček
+            snad po nas nebude strilet, ale jezdit urcite
+     * 21. 11. 2012 · 19:00 Pražské PyVo #20 async prakticky
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * eventlet
+               * Jiri Barton
+          * Python event-based network sniffer
+               * Jirka Vejrazka
+          * django + gearman
+               * Jozef Sevcik
+          * celery
+               * Ales Zoulek
+          * DjCelery + Facebook FQL
+               * Visgean Skeloru
+            How to use Celery and django libraries to download all data from
+            facebook tables.
+     * 17. 10. 2012 · 19:00 Django-cs #19 async
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            gevent
+               * Jiri Barton
+            eventlet gevent greenlet greenthread coroutines
+          * [IMG] 
+            twisted
+               * yac
+          * [IMG] 
+            tornado
+               * Milan Cermak
+          * [IMG] 
+            node.js
+               * Almad
+     * 19. 9. 2012 · 19:00 Django-cs #18
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * ohlasy python akci @europython @djangocon @napyvo
+            serie lightning talku od fanousku naseho oblibeneho jazyka a od
+            ucastniku konferenci
+     * 15. 8. 2012 · 19:00 Django-cs #17
+       Cyril's Pub, Bozděchova 8, Praha 5, 150 00
+     * 18. 7. 2012 · 19:00 Django-cs #16
+       Cyril's Pub, Bozděchova 8, Praha 5, 150 00
+          * Triky v Django templates
+               * Daniel Srb
+            O špinavých tricích v šablonách a o mocném tagu umožňující něco
+            jako vícenásobnou dedičnost. Programátoři mě následně můžou
+            ukřižovat.
+          * ukazka appengine aplikaci
+               * Martin Kubát
+     * 20. 6. 2012 · 19:00 Django-cs #15 UX
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            UX: Proč mě to má kurva zajímat? (Programming motherfucker!)
+               * Daniel Srb
+          * [IMG] 
+            Design bolí
+               * Richard Šerý
+            Použitelnost není posvátná kráva, při designu uživatelského
+            rozhraní můžeme mít i jiné záměry. Jaké? Richard Šerý vám poví,
+            jaké mohou designéři sledovat cíle, jaká dělají rozhodnutí a jaké
+            to může mít důsledky. Chuck Norris inside!
+          * [IMG] 
+            Co nepodělat, když chcete, aby se vám někdo registroval do vaší
+            webové aplikace
+               * Denisa Lorencová
+            Denisa Lorencová poradí, jak dělat i nedělat registrační
+            formulář, abyste se uživatelů nezbavovali ještě předtím, než jste
+            je vůbec získali. Praktický seznam included.
+          * Maximův pozdrav z Kalifornie po Skype (a možná něco navíc)
+               * Maksim Izmaylov
+          * [IMG] 
+            Opensourcing projektu Prahou na kole
+               * Václav Řehák
+     * 16. 5. 2012 · 19:00 Django-cs #14
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            denormalizace v Redisu
+               * Honza Král
+          * openshift a openstack
+               * Marek Jelen
+          * [IMG] 
+            Virtualmaster v příkazové řádce
+               * Adam Kliment
+     * 18. 4. 2012 · 19:00 Django-cs #13 mobile
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * py on Android
+               * yed podtrzitko
+          * Scala on Android
+               * Jakub Kahovec
+          * Objective C on iOS
+               * Milan Cermak
+          * archlinux on android
+               * Jakub Vysoký
+               * starenka
+     * 21. 3. 2012 · 19:00 Django-cs #12
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Main session
+     * 15. 2. 2012 · 19:00 Django-cs #11
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 18. 1. 2012 · 19:00 Django-cs #10
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * What will be new in Paver 1.1
+     * 23. 11. 2011 · 19:00 Django-cs #9
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 19. 10. 2011 · 19:00 Django-cs #8
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 21. 9. 2011 · 19:00 Django-cs #7
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * Inception of content strategy
+               * Maksim Izmaylov
+     * 17. 8. 2011 · 19:00 Django-cs #6
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+     * 15. 6. 2011 · 19:00 Django-cs #5
+       V LOCHU, Veletržní 820/73, 17000
+          * [IMG] 
+            rosti.cz
+               * Adam Štrauch
+          * [IMG] 
+            virtualenv
+               * Jakub Vysoký
+          * [IMG] 
+            webstack
+               * Ales Zoulek
+          * [IMG] 
+            static media and nginx
+               * starenka
+          * [IMG] 
+            usertesting
+               * Jiri Barton
+     * 18. 5. 2011 · 19:00 Django-cs #4
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * ella used with open html template
+               * Robin Gottfried
+          * [IMG] 
+            django admin customisations
+               * Honza Král
+          * pyvec introduction
+               * PyVec
+     * 30. 3. 2011 · 19:00 Django-cs #3
+       Na Věnečku, Ostrovského 38a, Praha 5, Czech Republic, 15000
+          * [IMG] 
+            paver
+               * Almad
+          * [IMG] 
+            django ajax
+               * Michal Valoušek
+            plus frkale
+          * [IMG] 
+            appengine prakticky
+               * Roman Krejčík
+     * 16. 2. 2011 · 19:00 Django-cs #2
+       Restaurace Jáma, V Jámě 7, 11000
+          * [IMG] 
+            intro
+          * aws & knitting
+               * Ales Zoulek
+               * Jiri Barton
+          * ses - Amazon Simple Email Service
+               * Jozef Sevcik
+          * rst2pdf
+               * Jiri Barton
+     * 17. 1. 2011 · 19:00 Prague Python User Group #1
+       Konvikt, Bartolomějská 11, 11000
+          * important talks about world, beer and python
+               * Vlada Macek
+               * Jakub Vysoký
+               * Almad
+               * Jiri Barton
+               * Jirka Vejrazka
+               * Ales Zoulek
+   Stránky spravuje občanské sdružení Pyvec, o.s.. E-maily posílejte na
+   info@pyvec.org, tweetujte na @pyvec.
+   Tyhle stránky jsou na Githubu. Pull requesty vítány!
+   Hostováno u Roští.cz. Děkujeme!

@@ -1,0 +1,786 @@
+   Pyvo.cz 🌎 English, please!
+
+                                 Brněnské Pyvo
+
+   Brněnské Pyvo bývá každý poslední čtvrtek v měsíci. Některé srazy byly
+   spojené s BRUG – Brno Ruby User Group, komunitou kolem Ruby.
+
+Poslední sraz
+
+   25. 8. 2016 · 19:10 Brněnské Pyvo – Zpětnovazební
+   Tyršův sad → mapa (mapy.cz)
+
+   Druhé outdoor Pyvo tohto leta. Príďte si posedieť a pokecať so starými
+   známymi i novými kamarátmi pythonistami.
+   Tohtomesačnou témou budiž spätná väzba od Vás, ľudí tvoriacich komunitu
+   (hlavne) Brna a blízkeho či vzdialeného okolia. Podeľte sa s nami o Vaše
+   názory, pocity, návrhy, jedlo, pitie, ... :) Po naznaní, že debát bolo
+   dosť sa presunieme do blízkych či vzdialených podnikov k pivu. :) Tento
+   krát znova nečakajte dlhé prednášky. Možno Honza Javorek porozpráva o
+   svojej Pyvnej vízii, ale hlavným bodom programu ste Vy. Pythoním lightning
+   talkom však brániť nebudeme.
+
+Kontakt na organizátory
+
+     * Petr Viktorin
+
+            Telefon
+                    77-ENCUKOU
+
+            E-mail
+                    encukou@gmail.com
+
+     * Honza Javorek
+
+            E-mail
+                    mail@honzajavorek.cz
+
+Historie srazů
+
+     * 28. 7. 2016 · 19:10 Brněnské Pyvo – červencový outdoor punk
+       Brno
+
+       Príďte si posediet či poležať do parku a stretnúť svojich starých a
+       získať nových známych zpomedzi krotiteľov hadov. So sebou deky,
+       stoličky, stany, poľné nemocnice, a čokoľvek potrebujete na piknik.
+       Jedlo a pitie so sebou :) Na mieste je verejný gril, nie je ale isté,
+       či bude voľný.
+       Tentokrát bez oficiálneho programu - program je vo vašich rukách. Len
+       park, poslucháči a Tvoj lightning talk na ľubovoľnú python tému.
+
+     * 30. 6. 2016 · 19:00 Brněnské Pyvo – Jak umělou inteligenci
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Červnový sraz Python programátorů v Brně, tentokráte o tom, jak na
+       umělou inteligenci.
+       Jako obvykle hledáme ideálně jednu nějakou úvodní přednášku do tématu
+       a jednu nějakou pokročilejší. Přednášky hlašte sem na event nebo dejte
+       vědět kterémukoliv ze čtyř organizátorů.
+       S blížícím se létem nesmíme zapomínat na péči o naši den co den slunci
+       vystavenou pokožku. Každý správný programátor ví, že by ji měl
+       pravidelně schovávat z dosahu paprsků, aby si odpočinula. Nejlépe
+       každý poslední čtvrtek v měsíci.
+
+     * 26. 5. 2016 · 19:00 Brněnské Pyvo – Jak na data
+       Skypicker, Hlinky 40/102
+
+       Květnový sraz Python programátorů v Brně, tentokráte o tom, jak na
+       data. Přednášky, zlobu, lásku a nejistotu miřte na Tomáše Ehrlicha,
+       který má květnové Pyvo na starosti.
+
+     * 28. 4. 2016 · 19:00 Brněnské Pyvo – Projektové
+       Skypicker, Hlinky 40/102
+
+       Pracuješ na nějakém zajímavém projektu, ať už v práci nebo ve volném
+       čase? Přijď se podělit! Na každý projekt bude vyhrazených pět minut,
+       ideální čas na to, říct to nejdůležitější a publikum nenudit.
+       A jestli projekt nemáš, nevadí – přijď a můžeš si nějaký vybrat.
+       Plus: první Pyvo proběhlo před pěti lety! Pojďme to oslavit :)
+
+     * 31. 3. 2016 · 19:00 Brněnské Pyvo – Ladění chyb
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Když si přečtete na Wikipedii co je programování, tak se dovíte samé
+       vznešené řeči, ale ve skutečnosti všichni víme, že programování se
+       skládá hlavně z nevěřícného koukání do obrazovky, škrábání se na hlavě
+       a provádění nejrůznějších rituálů, které by nás alespoň trochu mohly
+       posunout k prozření proč nám něco, co jsme napsali, vůbec nefunguje.
+       Tentokrát Pyvo bude přesně o tomto - o ladění chyb v našich Python
+       programech.
+
+     * 25. 2. 2016 · 19:00 Brněnské Pyvo – Jak na příkazovou řádku
+       U Dřeváka, Dřevařská 22, 602 00
+
+       POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí 22. 6.
+       účast buď na Lanyrdu (http://lanyrd.com/2016/brno-pyvo...) nebo
+       Facebooku (https://www.facebook.com/events/...). Díky!
+       Píše se rok 2016 a každý pořádný program má webové rozhraní. Ale ti,
+       kdo ono webové rozhraní vytváří a spravují, stále píšou textové
+       příkazy, tak jako se to dělá už od sedmdesátých let.
+       Proč to tak je? Jak je na tom příkazová řádka jako uživatelské
+       rozhraní – potřebuje pečlivý design, nebo její popularita spočívá v
+       nepřívětivosti? Co je na ní dobré, co se dá vylepšit, čím se dá
+       nahradit? To budou témata pro další setkání Pythonistů.
+       Úvodní přednáška všechno osvětlí i nováčkům, takže se nebojte přijít!
+       Místo bude upřesněno podle zájmu.
+
+          * [IMG] 
+            Jak na příkazovou řádku
+               * Petr Viktorin
+     * 28. 1. 2016 · 19:00 Brněnské Pyvo – JAK začít
+       Skypicker, Hlinky 40/102
+
+       POZOR: Pro velký zájem měníme místo! Pyvo bude u Skypickeru, na adrese
+       Hlinky 40/102, Brno.
+       ----
+       Každý někdy začínal – a většina z nás začíná stále znovu.
+       Jak začít s Pythonem? S programováním obecně? Nebo s novou knihovnou
+       či frameworkem? A jak začínání usnadnit ostatním?
+       Pyvo samotné letos začíná sérii "JAK". Přijďte začít s námi!
+
+          * [IMG] 
+            Jak se naučit programovat (v Pythonu)
+               * Honza Javorek
+            Jak začít s programováním? Kde najít informace, kde odstartovat?
+            Proč to vůbec dělat? A proč zrovna v Pythonu?
+          * What might surprise you when you start to learn Python
+               * David Kašpar
+          * [IMG] 
+            Czechitas
+               * Eva Bližňáková
+          * Python + VS (Code) + Azure
+               * David Bureš
+     * 17. 12. 2015 · 19:00 Brněnské Pyvo – Hardware Bazar
+       Koločava, Bayerova 10
+
+       Chystá se Vánoční hardwarové Pyvo!
+       Přineste hardware, co se vám doma válí v šuplíku, a darujte nebo
+       vyměňujte s ostatními!
+       Nebo přineste ukázat zajímavý hardware (nejlépe poháněný Pythonem).
+
+     * 26. 11. 2015 · 19:00 Brněnské Pyvo – Listopadové
+       Koločava, Bayerova 10
+          * Event-Sourced Domain Models in python
+               * Michal Ovčiarik
+            Rekapitulacia z PyCon workshopu
+     * 29. 10. 2015 · 19:00 Brněnské Pyvo – CI
+       Baroko, Orlí 469/17, Brno, 602 00
+     * 24. 9. 2015 · 19:00 Brněnské Pyvo – 3.5 Release Party
+       U Dřevěného orla, Orlí 3
+
+       Pojďte oslavit novou verzi Pythonu!
+       (Těm, kteří se těšili na téma CI, se omlouváme – bude za měsíc.)
+
+     * 27. 8. 2015 · 19:11 Brněnské Pyvo + BRUG – Clean code
+       Baroko, Orlí 469/17, Brno, 602 00
+          * Code Quality Tools
+               * Pavel Studeník
+          * PEP 8 vs. pep8
+               * Petr Viktorin
+          * Rule-based authorization in Django
+               * Věroš K.
+          * Django Guardian
+          * PyCon CZ
+               * Tomáš Ehrlich
+     * 30. 7. 2015 · 19:00 Brněnské Pyvo + BRUG – Po EuroPythonu
+       Šelepka, Šelepova 1
+
+       Červnové Pyvo bude pár dní po největší evropské pythoní konferenci.
+       Jedete na ni? Přijďte se podělit o zážitky. Nejedete? Přijďte si
+       poslechnout, co se událo!
+
+          * EP report
+               * Petr Viktorin
+            O čem vám povím, to zjistím týden předem, ale o pivo že to bude
+            zajímavé :)
+          * PyCon.CZ organization session
+     * 25. 6. 2015 · 19:00 Brněnské Pyvo + BRUG – Regulární výrazy (Červnové)
+       U Dřeváka, Dřevařská 22, 602 00
+          * [IMG] 
+            Nový python.cz
+               * Honza Javorek
+          * Nové pyvo.cz
+               * Petr Viktorin
+          * Dokku
+               * Igor Hlina
+     * 28. 5. 2015 · 19:00 Brněnské Pyvo + BRUG – Květnové
+       U Dřevěného orla, Orlí 3
+
+       Květnové Pyvo je na volné téma. Kdokoliv může přijít a říct něco na
+       téma, jaké se mu zlíbí. Čekáte marně na to, až uděláme Pyvo zrovna s
+       vaším tématem? Nemusíte! V květnu je to pouliční směska, takže
+       neváhejte a přihlašte si svůj talk!
+
+          * Windowed Dynamic Time Warping a synchronizace videí
+               * Petr Viktorin
+          * Formát řetězce pomocí .format() nebo starým dobrým % operátorem?
+          * Documentation driven development
+     * 30. 4. 2015 · 19:00 Brněnské Pyvo + BRUG – Freelancing
+       Impact Hub Brno, Cyrilská 7, 60200
+
+       Už jste někdy uvažovali nad tím, že utečete ze zlaté klece
+       stravenkového Matrixu a vydáte se na volné noze do širého moře
+       freelancingu, kde byste statečně a hrdě jako kapitán jednočlenné lodi
+       čelili šlehavým větrům vlastní nedisciplinovanosti a přízně výdajového
+       paušálu? Nebo jste si tím možná dokonce už i prošli? Dubnový sraz
+       brněnských Pythonistů a Rubystů bude přesně o tomto!
+       POZOR č. 1! Změna místa!
+       A u té příležitosti se bude odehrávat v novém brněnském Hubu, hnízdě
+       volnonožníků a podobné havěti.
+       Toto Pyvo nebude v hospodě, a tak objednáme pizzu. Vyberete-li si
+       předem na http://www.fortys-pizza.cz/menu/ dejte vědět na
+       encukou@gmail.com (nebo Facebook), ať pak tolik nečekáme.
+       POZOR č. 2! Překvapení! Toto Pyvo je výroční!
+       Už je to ..čtyři roky, co chodíte na Pyvo!
+       https://www.facebook.com/events/...
+
+          * "Keynote" aneb "klíčová poznámka" o tom, jak to s Pyvem bylo a
+            jak to bude dál
+               * Honza Javorek
+          * Výkop diskuse: Práce na dálku
+               * Honza Král
+            Práce na dálku má své specifika, své výhody i nevýhody. Podělím
+            se o svůj pohled na věc, co mi vyhovuje, co ne a, hlavně, jak to
+            řeším.
+          * Moderování diskuse + vlastní zkušenosti
+               * Jiří Zapletal
+     * 26. 3. 2015 · 19:00 Brněnské Pyvo + BRUG – Flamewar
+       U Dřevěného orla, Orlí 3
+
+       Co vám na Pythonu/Ruby nejvíc vadí?
+       Všichni máme ty naše dynamické jazyky rádi. Ale vždycky se najde něco,
+       co člověka na jeho nástrojích irituje. Pojďte si postěžovat, vylít
+       zlost – a nebo zjistit, že celou dobu existoval lepší způsob jak to
+       napsat.
+
+     * 26. 2. 2015 · 19:00 Brněnské Pyvo + BRUG + CzechiPub – Dokumentační
+       U Dřevěného orla, Orlí 3
+
+       POZOR, jiné místo než obvykle – Koločava začíná být příliš malá //
+       NOTICE: We have a different (larger) venue than usual this time.
+       python.cz & czechitas.cz present: The docs meetup!
+       "Docs or it didn't happen! Documentation first!" Podobné a někdy ještě
+       skandálnější výkřiky je možné stále časteji slýchat v undergroundových
+       kavárnách a klubech, hnízdech nové, alternativní programátorské vlny.
+       Můžeme se něco od těchto volnomyšlenkářů přiučit? Není to příliš
+       radikální koncept, psát dokumentaci? Není to příliš altruistická
+       aktivita, dávat někomu strukturovanou informaci, jak náš kód použít? A
+       co třeba napsat dokumentaci jako úplně to první, dokonce ještě dřív
+       než testy? To vše, ale možná ještě méně se dovíte na našem spojeném
+       srazu.
+       "Docs or it didn't happen! Documentation first!" You might hear such
+       slogans in underground cafés and clubs, meeting places of a new
+       programming movement. Can we learn from these free-thinkers? Isn't
+       documentation too radical of a concept? Is giving people structured
+       information about how to use our code too altruistic? And what about
+       writing documentation first, even before tests? This, and maybe even
+       less, you will learn on our merged meetup.
+
+          * [IMG] 
+            Keep it Simple, Present (FOSS Docs 101)
+               * Mikey Ariel
+          * [IMG] 
+            A Few Docs Tools
+               * Petr Viktorin
+          * [IMG] 
+            Pandoc & Nové python.cz
+               * Honza Javorek
+          * [IMG] 
+            Knihovnička
+               * Petr Viktorin
+          * [IMG] 
+            DjangoGirls Report
+               * Mikey Ariel
+     * 29. 1. 2015 · 19:00 Brněnské Pyvo + BRUG – DevOps
+       Koločava, Bayerova 10
+          * The Foreman and Katello for provisioning, configuration and
+            content management
+               * Ivan Nečas
+            The Foreman (http://theforeman.org/) is a provisioning and
+            configuration management tool, integrating various providers,
+            both from provisioning (bare-metal, oVirt, VMWare, libvirt, EC2,
+            OpenStack) and configuration management (Puppet, Chef, Salt)
+            side. Besides other things, it's plugable. Katello
+            (http://katello.org/) is a plugin, that brings content management
+            into the play as well. I would like to go through the concepts
+            and features of this two projects that I happened to work on
+            (with help of other team members that will also be there to
+            support me hopefully :)
+          * Ansible - get your hands dirty
+               * Věroš K.
+            Quick introduction to Ansible.
+          * service discovery pro docker cluster
+               * Martin Stiborský
+          * Dokku - docker pro lenochy
+          * [IMG] 
+            SaltStack vs. Ansible
+               * Jakub Vysoký
+          * [IMG] 
+            SaltStack @ Netsuite: Practical Exerience
+               * Michel Samia
+     * 18. 12. 2014 · 19:00 Brněnské Pyvo + BRUG – Hardwarové
+       Koločava, Bayerova 10
+
+       Tradiční datum Pyva+BRUGu připadá na den po Štědrém dni, takže to
+       posuneme o týden dřív.
+       Jako už tradičně, prosinec patří hardwaru. Přineste pípátka, blikátka,
+       točítka, chytré krabičky a jiné zajímavé komponenty a systémy.
+       Tradičně uspořádáme i vetešnictví – jestli máte doma nepotřebný kabel,
+       klávesnici či nějaký nesmysl do USB, přineste ho, pomůžeme mu najít
+       nový domov.
+
+          * [IMG] 
+            Micropython demo
+               * Petr Viktorin
+     * 27. 11. 2014 · 19:00 Brněnské Pyvo + BRUG – LIstopadové
+       Koločava, Bayerova 10
+          * import pytest
+               * Petr Viktorin
+          * Report z Django Under the Hood
+               * Tomáš Ehrlich
+     * 30. 10. 2014 · 19:00 Brněnské Pyvo + BRUG – Logovací
+       Koločava, Bayerova 10
+
+       (Omlouváme se se za změnu tématu; speakeři na DevOps budou k dispozici
+       až za měsíc).
+       Přijďte si pokecat o logování – přivítáme prezentace o věcech jako
+       structlog, redis, kafka, amqp jako log buffers, ELK, Graylog a
+       podobné.
+
+          * Colorlog
+               * Věroš K.
+            Colored logs with Python
+          * from systemd import journal
+               * Petr Viktorin
+     * 25. 9. 2014 · 19:00 Brněnské Pyvo + BRUG – Rozšiřitelné
+       Koločava, Bayerova 10
+
+       Tentokrát o pluginech, háčcích, signálech, a jiných možnostech jak
+       dovolit ostatním programátorům doplňovat a rozšiřovat váš kód.
+
+     * 28. 8. 2014 · 19:00 Brněnské Pyvo + BRUG – Začátečnické
+       Koločava, Bayerova 10
+
+       Začínáte s Pythonem či Ruby? Nebo jste začínali kdysi? Nebo jen chcete
+       začít?
+       Jak se nejlíp naučit programovat? Jak nejlíp učit programovat? Co
+       byste vzkázali těm, kteří (pů)jdou po vás? Co byste si přáli, aby bylo
+       jednodušší? Co jste sami zjednodušili?
+       Přijďte posedět, pomluvit Python, popít pivo, papat poctivou
+       podkarpatskou polévku, pokecat o programovacích poprvé; plánovat
+       pedagogické postupy, přivítat PyLadies...
+
+          * Jak začalo Pyvo v Brně
+               * Honza Javorek
+          * Jak začnou PyLadies v Brně
+               * Petr Viktorin
+          * Learn python the fun way
+               * Tomáš Ehrlich
+            Learn Python (or Ruby, Haskell, etc.) by using it. Sources of
+            motivation and programming challenges to help you learn new
+            programming language.
+     * 31. 7. 2014 · 19:00 Brněnské Pyvo + BRUG – Bitva tří císařů
+       Heršpice
+
+       POZOR, POVINNÁ REGISTRACE (do 24. 7. 12:00) přes Google Forms, viz
+       níže...
+       Kdo se nezaregistroval včas, musí si přinést vlastní pivo a nemá
+       postel (může ale spát na karimatce).
+       Toto Pyvo bude grilovací, ve Slavkově u PyLady Šárky. Potřebujeme ale
+       vědět, kolik zhruba koupit piva a tudíž kolik lidí přijde. Gril je
+       sice relativně malý, ale najíme se z něj. Zájemci se budou muset
+       přihlásit aspoň tak týden předem, jinak pro ně nezbude pivo/místo ke
+       spaní.
+       Na tomto Pyvu nebudou žádné přednášky. Bude čistě DISKUSNÍ! (a
+       GRILOVACÍ!)
+       Tento formát je organizačně náročnější než pozvání do hospody, a proto
+       potřebujeme předem vědět, kolik nás bude.
+       Přihlašujte se zde: https://docs.google.com/forms/d/...
+       (Pokud nemáte rádi Google, ozvěte se na mail - pviktori@redhat.com)
+
+       Přineste si vlastní maso na gril. Chleba & hořčici přinesou
+       organizátoři; pokud nechcete, napište to do přihlášky.
+       Narazíme pivo ze Slavkovského pivovaru. Při registraci si tipněte
+       kolik ho zhruba vypijete, ať víme jak velký sud přivalit.
+       Je možné na místě přespat. Podmínky záleží na počtu lidí, takže se
+       přihlašte a dál budeme informovat.
+
+       FB: https://www.facebook.com/events/...
+       Místo: u autobusové zastávky Heršpice, zelnice; zaregistrovaní
+       dostanou přesnou adresu.
+
+     * 26. 6. 2014 · 19:00 Brněnské Pyvo + BRUG – Letní mix
+       Koločava, Bayerova 10
+
+       Na červnovém Pyvu+BRUGu uvítáme – mezi pivem a borščem – přednášky o
+       čemkoli, co se nějak týká Pythonu či Ruby.
+       Mimo jiné se proslýchá že začíná sezóna letních konferencí. Možná si
+       někdo bude chtít v neformálním prostředí vyzkoušet svou přednášku, než
+       s ní odjede do zahraničí za neznámým publikem.
+
+          * PyCon PL
+               * Filip Kłębczyk
+          * Concurrent Ruby
+               * Petr Chalupa
+          * RPython a PyPy
+               * Martin Putniorz
+     * 29. 5. 2014 · 19:00 Brněnské Pyvo + BRUG – Show us your stuff!
+       Koločava, Bayerova 10
+
+       Pojď představit svůj projekt! Píšeš po večerech hru, tvoříš si
+       webovky, nebo jsi napsal CLI pro svou banku? Nebo jsi napsal
+       open-source projekt, který teď používají tisíce lidí?
+       Na květnovém Pyvu uvítáme, mezi pivkem a borščem, krátké (1-10 min.)
+       prezentace takového toho domácího kódění.
+
+          * [IMG] 
+            Jenkins-Koji integration; Koji Python API - lessons learned
+               * Václav Tunka
+          * [IMG] 
+            RoCAPTCHA & NajdiMazla.cz
+               * Vojtěch Oram
+          * [IMG] 
+            projekty
+               * Honza Javorek
+          * projekty
+               * Ivan Nečas
+          * cestovatel.cz
+          * [IMG] 
+            tmxlib & gillcup
+               * Petr Viktorin
+          * actor
+               * Tomáš Babej
+     * 24. 4. 2014 · 19:00 Brněnské Pyvo + BRUG – Překladačové
+       Koločava, Bayerova 10
+          * PEG.js – generátor parserů for JavaScript
+               * David Majda
+            Stručné představení PEG.js s ukázkou, doplněné tipy na podobné
+            nástroje pro Ruby a Python.
+          * [IMG] 
+            Zpětný překlad - jak z binárky dostat zdroják
+               * Petr Zemek
+          * [IMG] 
+            Jak jsem vyráběl Snowcrash
+               * Z
+          * [IMG] 
+            import ast, dis
+               * Petr Viktorin
+     * 27. 3. 2014 · 19:00 Brněnské Pyvo + BRUG – Release Party
+       Koločava, Bayerova 10
+          * 3.4: Co je nového v Pythonu
+               * Petr Viktorin
+          * Novinky v Ruby >= 2.1
+               * Ivan Nečas
+          * The Software Collections and friends
+               * Jiří Zapletal
+          * Elasticsearch 1.0 and 1.1
+               * Honza Král
+     * 27. 2. 2014 · 19:00 Brněnské Pyvo + BRUG – Výjezdové
+       Hlavní nádraží, Brno, Nádražní 418/1, Brno, 60200
+
+       http://lanyrd.com/2014/rubyslava...
+       [English]
+       Our friends in Bratislava are celebrating three years of meetups. Join
+       us in joining them at the Rubyslava + PyVo #36 (International
+       MiniConference Edition)!
+       We will leave by train at 16:22, and return at 0:52. The ticket will
+       cost you about 500 CZK. Slovakia is in the Eurozone so remember to
+       bring appropriate currency for drinks & food.
+       [Czech]
+       V Bratislavě se koná Rubyslava + PyVo #36 (International
+       MiniConference Edition). Zároveň je výročí třech let pořádání
+       Rubyslavy.
+       Zároveň se tato Rubyslava koná ve stejný den jako brněnské Pyvo.
+       Bratislava je za rohom, padl tedy z naší strany nápad, že bychom
+       udělali kamarádský výjezd 8-)
+       Jano potvrdil, že místa bude dost, takže jsme se nakonec opravdu
+       rozhodli přilít olej do ohně a přivézt do Bratislavy celé únorové
+       Pyvo!
+
+       jede se vlakem, společně
+       vyjíždíme o půl páté, vrátíme se zhruba v jednu ráno (při troše štěstí
+       to bude akorát navazovat na rozjezd)
+       celá sranda by měla přijít na zhruba 500 Kč (cesta) + co propijete a
+       projíte (nezapomeňte si vzít nějaká eura!)
+
+       [Geektrains]
+       ✩ 16:22 - 17:50 ✩
+       Brno - (Břeclav) - Bratislava [EC 173 Vindobona, EC 131 Varsovia]
+       ✩ 22:58 - 0:52 ✩
+       Bratislava - Brno [476 Metropol]
+
+     * 30. 1. 2014 · 19:00 Brněnské Pyvo + BRUG – Konkurenční
+       Koločava, Bayerova 10
+
+       Nestačí vám jedno jádro? Paralelizujete, pouštíte vlákna, podprocesy a
+       zelenitky? Zdají se vám noční můry o GILu? Pokukujete po Go, Rust či
+       Erlangu? Přidejte se k aktorům lednového Pyva+BRUGu, popijte
+       asynchronně natočené pivo, a kooperativně se podělte o své zážitky a
+       zkušenosti!
+
+          * [IMG] 
+            asyncio
+               * Petr Viktorin
+          * [IMG] 
+            Actor pattern
+               * Petr Chalupa
+          * Hledá se ostřílený Python/Django senior
+               * Videoflot
+          * [IMG] 
+            Generator demo
+               * Petr Viktorin
+     * 12. 12. 2013 · 19:00 Brněnské Pyvo + BRUG – Hardware Bazaar
+       Café Falk, Gorkého 12
+     * 28. 11. 2013 · 19:00 Brněnské Pyvo + BRUG o PostgreSQL
+       Koločava, Bayerova 10
+          * PostGIS a SQLite/Spatialite
+               * Věroš K.
+          * Optimalizace v PostgreSQL
+               * Michal Huvar
+            10 - 15 minut, kde bych popsal všechny možné metody, způsoby,
+            rady a postřehy, se kterými jsem se setkal při optimalizaci
+            reálných větších projektů.
+          * PostgreSQL & Tornado web server
+               * Michal Šiška
+          * hstore, NoSQL v PostgreSQL
+               * Martin Putniorz
+          * MySQL – ohMyGOD
+               * Michal Wiglasz
+          * Dodatek k optimalizaci Postgresu
+               * Martin Povolný
+          * Dataset
+               * Tomáš Tomeček
+          * Dodatek k Postgisu
+               * mrpohoda
+          * Postgres Listen/Notify
+               * Věroš K.
+     * 31. 10. 2013 · 19:00 Brněnské PyVo + BRUG – Zpátky v Kaverně
+       Restaurace Kaverna, Veveří 9, 602 00
+
+       POZOR! Zrušili nám rezervaci, sraz bude v Kaverně.
+       ATTENTION! Our reservation was cancelled, the meetup will be in
+       Kaverna!
+
+          * Algebrick
+               * Petr Chalupa
+            Algebraic types and pattern matching.
+          * Učení RoR
+               * Max
+     * 26. 9. 2013 · 19:00 Brněnské PyVo + BRUG – Lightning Talk edition
+       U Dřeváka, Dřevařská 22, 602 00
+          * Deskriptory
+               * Honza Král
+          * OpenStack
+               * Jiří Stránský
+          * %YAML
+               * Michal Fojtik
+          * Pyvo včera a dnes
+               * Petr Viktorin
+          * Organizace Pyva
+               * Honza Javorek
+          * Modules
+               * Věroš K.
+          * Fiobank API, Redis Collections, zitkino.cz
+               * Honza Javorek
+          * @reify
+               * Petr Viktorin
+          * Travis CI
+               * Honza Král
+     * 22. 9. 2013 · 22:30 Žít Kino sprint
+       Red Hat Czech, Purkyňova 71/99, 61200
+
+       Pojďte na sprint! další možnost se potkat a sdílet know-how, jen
+       trochu víc "hands-on" než přednášky na sraze, a s trochu konkrétnějším
+       dopadem na nějaký milý open-source projekt.
+       Zváni jsou všichni od těch, co se chtějí poprvé kouknout Flasku na
+       zoubek, po ty co Honzovi vyčtou co všechno dělá špatně (a pošlou tucet
+       pull requestů).
+
+     * 29. 8. 2013 · 19:00 Brněnské PyVo + BRUG – Testovací
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Funguje to, co jste napsali? Jste si jistí? Pojďme si popovídat o tom,
+       jak kontrolovat, jestli jsme ňekde neudělali chybu.
+
+          * [IMG] 
+            Python testing libraries
+               * Tomáš Ehrlich
+            Comparison of known and unknown Python testing frameworks and
+            libraries.
+          * [IMG] 
+            Testing Ruby REST services using minitest and VCR
+               * Michal Fojtik
+            A very brief introduction into testing REST clients against REST
+            services offline in Ruby, using the minitest
+            (https://github.com/seattlerb/min...) and VCR
+            (https://github.com/vcr/vcr). This presentation will not include
+            any hipster tools, web interfaces or rainbows in console.
+          * [IMG] 
+            Unit Testing (not just) Django Code
+               * Honza Král
+          * [IMG] 
+            Mutation testing
+               * Petr Blaho
+          * [IMG] 
+            TryStack
+               * Will Foster
+          * [IMG] 
+            Ventro - centrum pohybu
+               * Matúš Svinčák
+          * [IMG] 
+            py.test
+               * Petr Viktorin
+     * 25. 7. 2013 · 19:00 Brněnské PyVo + BRUG – Ve 3D
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Téma pro tento měsíc: Grafika, hry, animace, a vše co s tím souvisí.
+       (Třetí dimenze není podmínkou)
+
+          * EuroPython report
+               * Petr Viktorin
+          * Základy v Blenderu, modelovaní, texturování a nasvícení
+               * Martin Schrimpel
+          * Python's game libraries
+               * Petr Viktorin
+     * 27. 6. 2013 · 19:00 Brněnské PyVo + BRUG – Letní všehochuť
+       U Dřeváka, Dřevařská 22, 602 00
+          * Sink or Swim - 5 life jackets to throw to the new coder
+               * Lynn Root
+          * Justified - a mini-gem for exceptional exceptions experience
+               * Petr Chalupa
+          * Introduce Django to your old friends
+               * Lynn Root
+     * 30. 5. 2013 · 19:00 Brněnské PyVo + BRUG – GUI
+       U Dřeváka, Dřevařská 22, 602 00
+          * [IMG] 
+            Python a GTK, Getting Things GNOME!
+               * Izidor Matušov
+          * [IMG] 
+            PySide & Qt
+               * Petr Viktorin
+     * 25. 4. 2013 · 19:00 Brněnské PyVo + BRUG – Verzovací systémy
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Vážené milovnice rubínů, a milovníci těchto milovnic, vážení krotitelé
+       krajt a krotitelky těchto krotitelů! Již tento čtvrtek v podvečer se
+       bude v šapitó na Dřevařské ulici v honosném městě Brně konat velkolepá
+       událost, jež svým věhlasem ve světě soupeří i s Čínským cirkusem!
+       Petr Viktorin bude z načerveno obarveného klobouku po svém strýci
+       Indianovi J. vytahovat zajímavosti o verzovacím systému Git. Ondra
+       Kudlík nás uvede do tajů laboratoří GitLabu, Václav Tunka odloží
+       kávičku z Jávy a povypráví nám strašidelné historky z jeskyní
+       Workflow-in-Open Soúrc, kde se bil se skřety a draky. Jirka Bartoň
+       přiletí na růžovém okřídleném poníku z hlavního města západního
+       Rakouska-Uherska, tedy královského města Pražského, aby zažongloval se
+       rtuťovými kuličkami tajemného Mercurialu a provedl nás mezi velbloudy
+       a exotickými otrokyněmi tureckého Bazaaru.
+       Kdo nepřijde, ten prohloupí a z této hlouposti se už nikdy nevykoupí!
+       Vstup je volný dobrovolný, piva dostatek, nemějte tedy zábran a
+       dostavte se!
+
+          * Jak funguje Git
+               * Petr Viktorin
+          * Lehký úvod do Mercurialu a Bazaaru
+               * Jiri Barton
+          * GitLab as GitHub replacement?
+               * Ondra Kudlík
+            I'll try to answer question whether GitLab is usable GitHub
+            replacement for specific use cases or not. I'll briefly describe
+            installation, git setup and other needed admin tatsks. Showcase
+            of main features will follow including comparison with GitHub
+            ones. I'll prefer talk in czech but if english is really needed,
+            I can try with my limited czenglish skills.
+          * Git workflow in open-source
+               * Václav Tunka
+            How git is being used in open-source projects such as JBoss AS,
+            Torquebox, etc.
+     * 28. 3. 2013 · 19:00 Brněnské PyVo – Python na neobvyklých místech
+       U Dřeváka, Dřevařská 22, 602 00
+          * [IMG] 
+            Python v telefonní ústředně
+               * Věroš K.
+          * [IMG] 
+            Python v Blenderu
+               * Růženka Janoutová
+          * [IMG] 
+            Jython jako silný skriptovací jazyk ve workflow a rules engines
+               * Václav Tunka
+          * Když zbude čas: Python jako jazyk pro distribuované build systémy
+               * Václav Tunka
+     * 28. 2. 2013 · 19:00 Brněnské PyVo – Únorové
+       U Dřeváka, Dřevařská 22, 602 00
+          * [IMG] 
+            O dekorátorech
+               * Martin Čarnogurský
+          * [IMG] 
+            Nové vychytávky v Pythonu 3
+               * Petr Viktorin
+     * 31. 1. 2013 · 19:00 Brněnské PyVo – API nejen pro mobily
+       U Dřeváka, Dřevařská 22, 602 00
+          * [IMG] 
+            Apiary.io
+               * Peter Grilli
+          * [IMG] 
+            HTTP API a Py
+               * Milan Čermák
+          * Jak vznikalo API pro Slevolapku
+               * Martin Skala
+     * 17. 12. 2012 · 19:00 Brněnské PyVo – Vetešnictví
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Prosincové PyVo bude v mnohém netradiční: máme zarezervovaný otevřený
+       salonek v levé části podniku, místo přednášek bude bleší trh s
+       hardwarem, a místo posledního čtvrtku bude PyVo v prostřední pondělí.
+
+     * 29. 11. 2012 · 19:00 Brněnské PyVo – CLI
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Python v příkazové řádce: od zpracování argumentů po barevné tabulky
+
+          * [IMG] 
+            Docopt
+               * Tomáš Ehrlich
+            Něco o docopt + malé shrnutí (arg|opt)parse
+          * [IMG] 
+            Textová rozhraní
+               * Petr Viktorin
+     * 25. 10. 2012 · 19:00 Brněnské PyVo – Deployment
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Tématem tohoto termínu bude deployment, čili "jak dostat (jakoukoliv)
+       svou aplikaci na server". Py balíčky, systémové balíčky, Fabric,
+       Paver, ...
+       Kapacita salonku je zhruba 25 osob, takže přijďte včas, nemusíte se
+       vlézt.
+
+          * [IMG] 
+            Buildout
+               * Radim Novotny
+          * [IMG] 
+            Jak zveřejnit knihovnu
+               * Petr Viktorin
+          * [IMG] 
+            CSS Hat a věci, které jste doteď nemohli vidět
+               * Viktor Stískala
+     * 27. 9. 2012 · 19:00 Brněnské PyVo – Nebezpečné
+       U Dřeváka, Dřevařská 22, 602 00
+
+       Podzimní pyvní sezónu startujeme ve čtvrtek 27. 9. PyVem o
+       bezpečnosti.
+       Přednášky se připravují, ale klidně samovolně připište svoji, máte-li
+       co říct o zabezpečování webových aplikací nebo obecně těch, které běží
+       na serveru a na síti, o kryptografii, vesmíru, životě, a vůbec.
+
+          * Zákeřný eval()
+               * Petr Viktorin
+          * Základní zabezpečení vlastního serveru
+               * Jirka Zapletal
+          * Úvod do kryptografie
+               * Kuba Čegan
+          * Bezpečnost webových aplikací
+               * Michal Špaček
+     * 27. 4. 2012 · 19:00 Brněnské PyVo – Punkové
+       Restaurace Kaverna, Veveří 9, 602 00
+          * [IMG] 
+            Trocha pythonové magie
+               * Petr Viktorin
+     * 26. 3. 2012 · 20:11 Brněnské PyVo – Březnové
+       Restaurace Kaverna, Veveří 9, 602 00
+     * 27. 1. 2012 · 19:00 Brněnské PyVo – NoSQL
+       Restaurace Kaverna, Veveří 9, 602 00
+          * Povídání o SQLAlchemy
+               * Petr Viktorin
+     * 7. 11. 2011 · 20:11 Brněnské PyVo – Listopadové
+       Restaurace Kaverna, Veveří 9, 602 00
+     * 3. 10. 2011 · 20:11 Brněnské PyVo – Podzimní poprázdninové
+       Restaurace Kaverna, Veveří 9, 602 00
+     * 5. 9. 2011 · 20:11 Brněnské PyVo – První Pondělí Po Prázdninách
+       Restaurace Kaverna, Veveří 9, 602 00
+     * 13. 6. 2011 · 20:11 Brněnské PyVo – Druhé
+       Restaurace Kaverna, Veveří 9, 602 00
+     * 26. 4. 2011 · 20:11 Brněnské PyVo – Poprvé
+       Café Falk, Gorkého 12
+   Stránky spravuje občanské sdružení Pyvec, o.s.. E-maily posílejte na
+   info@pyvec.org, tweetujte na @pyvec.
+   Tyhle stránky jsou na Githubu. Pull requesty vítány!
+   Hostováno u Roští.cz. Děkujeme!

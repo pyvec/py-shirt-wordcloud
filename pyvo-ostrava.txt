@@ -1,0 +1,314 @@
+   Pyvo.cz 🌎 English, please!
+
+                                 Ostravské Pyvo
+
+   Ostravské Pyvo bývá každou první středu v měsíci. Srazy jsou spojené s
+   Rubači – ostravskými Rubysty.
+
+Nadcházející sraz
+
+   7. 9. 2016 · 17:00 Ostravské Pyvo #31
+   Beskydský pivovárek, Ostravice 449 → mapa (mapy.cz)
+
+   Po krátké letní pauze jsem tu zase a tentokráte nás školní rok rozhodně
+   nezastihne střízlivé.
+   Když už se takovou dobu scházíme u piva v restauracích, proč bychom se pro
+   jednou nemohli vydat blíže směrem ke zdroji zlatavého moku a navštívit
+   jeden z minipivovarů v našem kraji?
+   Těšit se kromě klasických Pyvních atrakcí, výživné diskuse a zábavy můžete
+   také na prohlídku pivovaru (za poplatek 70 Kč/os) a vynikající pivo a
+   jídlo z místní produkce.
+   *Důležité*: Abychom mohli celou akci lépe naplánovat, potvrďte prosím svou
+   účast na facebooku nebo
+   [srazy.info](http://srazy.info/pyvo-v-ostrave/6716).
+   *Kde*: Beskydský pivovárek, Ostravice 449, Ostravice
+   *Kdy*: Klasicky první středu v září, ale pro změnu už od 17:00
+   *Jak se tam dostat*: Pro cestu tam je možné využít vlak do zastávky
+   Ostravice a pak dojít cca 550 m pěšky nebo využít autobus do zastávky
+   Ostravice-panelové domy, která je hned vedle. Kdo přijede autem, může si
+   alespoň odvézt místní pivo v PETkách.
+   *Jak zpět*: Cesta zpět bude asi nejlepší posledním vlakem 21:31, který
+   jede s jedním přestupem až do Ostravy na hlavní nádraží.
+   *Více info*: http://www.beskydskypivovarek.cz/domu/
+   *Mapa*: https://goo.gl/maps/tLGabNEqhhm
+
+Historie srazů
+
+     * 6. 7. 2016 · 19:00 Ostravské Pyvo #30
+       Coolárna Vratimov, Na stezce 973/11
+
+       V červenci uzavřeme třetí desítku našich setkání a protože už zde máme
+       letní měsíce, jubilejní setkání se uskuteční tradičně na cyklostezce
+       mezi Ostravou a Frýdkem ve Vratimově.
+       Přijďte se pobavit, nadýchat čerstvého vzduchu a dát si něco dobrého k
+       snědku.
+
+     * 1. 6. 2016 · 19:00 Ostravské Pyvo #29
+       Coolárna Vratimov, Na stezce 973/11
+     * 4. 5. 2016 · 19:00 Ostravské Pyvo #28
+       V. R. Levský, Škroupova 1114/4
+
+       Milí přátelé, ve středu 4.5. se bude v Ostravě konat již #28 PyVo
+       nebo-li sraz všech příznivců programovacích jazyků Python a Ruby. Sraz
+       začíná v 19:00 v restaurantu V.R. Levský (www.levsky.cz) a je volně
+       přístupný pro všechny, kteří si chtějí poslechnout zajímavé
+       mini-přednášky, potkat nové, či známé tváře nebo se zastavit jen tak
+       na kus řeči.
+       Večerní program začíná rychlým představovacím kolečkem, na které
+       navazují tři přednáškové bloky v délce okolo 30ti minut a následná
+       diskuze.
+       Témata přednášek budou upřesněny během následujících 14 dnů.
+       Svou účast nemusíte nikam předem hlásit, stačí jen přijít, ideálně
+       potvrdit zájem na Facebooku/Lanyrdu.
+       Těšíme se na Vás!
+
+     * 6. 4. 2016 · 19:00 Ostravské Pyvo #27
+       V. R. Levský, Škroupova 1114/4
+
+       Středeční PyVo #27
+       Milí přátelé, ve středu 6.4. se bude v Ostravě konat již #27 PyVo
+       nebo-li sraz všech příznivců programovacích jazyků Python a Ruby. Sraz
+       začíná v 19:00 v restaurantu V.R. Levský (www.levsky.cz) a je volně
+       přístupný pro všechny, kteří si chtějí poslechnout zajímavé
+       mini-přednášky, potkat nové, či známé tváře nebo se zastavit jen tak
+       na kus řeči.
+       Večerní program začíná rychlým představovacím kolečkem, na které
+       navazují tři přednáškové bloky v délce okolo 30ti minut a následná
+       diskuze.
+       Témata přednášek budou upřesněny během následujících 14 dnů.
+       Svou účast nemusíte nikam předem hlásit, stačí jen přijít, ideálně
+       potvrdit zájem zde na Facebooku.
+       Těšíme se na Vás!
+
+     * 2. 3. 2016 · 19:00 Ostravské Pyvo s Rubači
+       V. R. Levský, Škroupova 1114/4
+     * 3. 2. 2016 · 19:00 Ostravské Pyvo s Rubači – Týmové
+       V. R. Levský, Škroupova 1114/4
+
+       Vývoj software je jen zřídkakdy one man show a to tím spíše, čím
+       složitější aplikace je. Různé společnosti i nezávislé vývojové týmy
+       používají různé techniky a postupy pro spolupráci, vzájemnou kontrolu,
+       udržováni kvality vývoje a výsledného produktu a v neposlední řadě
+       také k zajištění zastupitelnosti člen týmu..
+       Přijďte se pochlubit s postupy, které právě vy považujete za nejlepší
+       a nejefektivnější a/nebo načerpat inspiraci od ostatních.
+
+     * 6. 1. 2016 · 19:00 Ostravské Pyvo s Rubači – Paralelní
+       V. R. Levský, Škroupova 1114/4
+
+       Po proflákaných Vánocích se všem jistě bude hodit způsob, jak toho v
+       co nejkratším čase stihnout co nejvíce. A protože to nebude dlouho
+       trvat, než se vícejádrové procesory přesunou z notebooků a mobilů do
+       ledniček a kávovarů, mrkneme se společně na paralelní programování v
+       našem oblíbeném jazyce.
+       Nejdříve si připomeneme programování ve vláknech, následovat bude
+       programování samostatných procesů a na závěr omrkneme velmi užitečný
+       modul – Parallel Python, který toho umí celou řadu a umožní nám využít
+       moderní výpočetní prostředky.
+       Na Vás a Vaše příspěvky se těší organizátoři.
+
+     * 2. 12. 2015 · 19:00 Ostravské Pyvo s Rubači – Vánoční
+       V. R. Levský, Škroupova 1114/4
+
+       Vánoce jsou sice oficiálně svátky klidu, ale skutečnost, je jak
+       všichni víme, zcela opačná. Přijďte si proto na chvíli odpočinout a
+       poklábosit na oblíbená témata na Pyvo.
+       Protentokrát se výjimečně sejdeme v zadní části restaurace místo
+       vinárny.
+       Těšíme se na Vás.
+
+     * 4. 11. 2015 · 19:00 Ostravské Pyvo s Rubači – Projektové
+       V. R. Levský, Škroupova 1114/4
+
+       Prázdniny jsou obdobím nabírání energie a inspirace a protože už je
+       máme dávno za sebou a před námi jsou dlouhé zimní večery, je nejvyšší
+       čas vrhnout se do implementace nových projektů.
+       Máte nějaký nový projekt či aktivitu, kterou byste rádi ukázali
+       ostatním? Pak je následující Pyvo určeno přesně pro Vás.
+       Těšit se můžete na ukázku využití informací z minulého Pyva a také na
+       pozvánku na první Pycon v ČR.
+       Těšíme se na Vás.
+
+     * 6. 10. 2015 · 19:00 Ostravské Pyvo s Rubači – mezi PY a C/C++
+       V. R. Levský, Škroupova 1114/4
+     * 2. 9. 2015 · 18:00 Ostravské Pyvo s Rubači – Ukončení prázdnin
+       Coolárna Vratimov, Na stezce 973/11
+
+       !!! Pozor !!! Změna dne konání – nyní bude Ostravské Pyvo s Rubači
+       každou první středu v měsíci
+       Zatímco školáci se už budou druhý den trápit vidinou deseti měsíců
+       mučení ve školní lavici, vysokoškoláci mají před sebou posledních pár
+       dní prázdnin. Pojďme je tedy naposledy letos využít k protažení
+       ztuhlých těl a vyrazme s Pyvem za pivem do známé Coolárny ve Vratimově
+       umístěné strategicky na cyklostezce mezi Ostravou a Frýdkem. Vítání
+       jsou všichni příznivci čerstvého vzduchu a pohybu.
+       V případě špatného počasí bude zde na stránce srazu oznámeno buď
+       zrušení nebo změna destinace.
+
+     * 2. 7. 2015 · 19:00 Ostravské Pyvo s Rubači – Prázdninové
+       Coolárna Vratimov, Na stezce 973/11
+
+       První čtvrtek je za týden, počasí by se dovtedy mělo vypršet, takže to
+       zkusíme jako openair, tentokrát bez office. Notebooky necháme doma a
+       místo přednášek si něco zahrajeme nebo se projedeme, vždyť jsou
+       prázdniny.
+       Místo je dobře dostupné cyklostezkou z centra i z Hrabové. Čistě
+       teoretický se tam dá dostat i vlakem nebo busem (Vratimov) a využít
+       místní půjčovnu (ověřte si možnosti). Je tam občerstvení, pivo, pizza
+       z mrážaku, trávník a branky na fotbal. Několik km dál je cyklopláž,
+       kde podle slov majitele budou po 1.6 i lehátka a steaky na grilu…
+       PS: Jestli tam budou jen organizátoři, tak mate celé prázdniny zaracha
+       na p(la)yStation :D
+       http://www.mapy.cz/s/j3dF
+       https://www.facebook.com/coolarna
+       https://www.facebook.com/nastezce
+       https://www.facebook.com/cykloplaz
+
+     * 4. 6. 2015 · 19:00 Ostravské Pyvo s Rubači – O projektech
+       V. R. Levský, Škroupova 1114/4
+          * [IMG] 
+            mozek.it
+               * Michal Hantl
+          * [IMG] 
+            openairoffice.cz
+               * Laco Krčmárik
+          * Dynamic Time Warping & synchronizace videí
+               * Petr Viktorin
+          * [IMG] 
+            Projekty v zahraničí
+               * Daniel Dimitrov
+          * O velkém ostravském superpočítači
+               * Lumír Frenzy Balhar
+     * 2. 4. 2015 · 19:00 Ostravské Pyvo s Rubači – Debugovací
+       V. R. Levský, Škroupova 1114/4
+     * 5. 3. 2015 · 19:00 Ostravské Pyvo s Rubači – Django vs. Rails vs.
+       Symfony
+       V. R. Levský, Škroupova 1114/4
+          * [IMG] 
+            Django Tutoriál
+               * Tomáš Ehrlich
+     * 5. 2. 2015 · 19:00 Ostravské Pyvo s Rubači – Editory
+       V. R. Levský, Škroupova 1114/4
+
+       V lednovém termínu se naše společné setkání bohužel nekonalo a při
+       pohledu do kalendáře jistě všem dojde, proč tomu tak bylo. Udělat
+       někde sraz většího množství lidí z oboru IT by v tomto datu bylo těmi
+       střízlivými z nás jistě považováno za nějakou provokaci a ti pod
+       vlivem by si jej stejně nepamatovali.
+       Nicméně se nám blíží únor a sním i všichni v plné síle.
+       !!! POZOR změna tématu !!!
+       Vzhledem k neúčasti jednoho z hlavním prezentujících jsme byli nuceni
+       změnit téma následujícího setkání – nové téma jsou „Editory pro
+       vývoj“. Připomínáme, že anketa je pro Vás a Vaše nápady stále k
+       dispozici na adrese: http://bit.ly/1r0hrOb
+       Jste-li zkušenější uživatel některého z populárních editorů, přijďte
+       si nejen poslechnout ostatní, ale také se podělit o své znalosti.
+       Máte se na co těšit. Tým organizátorů se těší na Vás.
+
+     * 4. 12. 2014 · 19:00 Ostravské Pyvo s Rubači – Vánoční
+       V. R. Levský, Škroupova 1114/4
+
+       Přes Vánoce nás, těžké workoholiky, nikdo nepustí do práce a tak si
+       jistě stejně jako my připravujete nějaké vlastní projekty, kterými se
+       jako malé děti budete bavit v přestávkách mezi pojídáním cukroví a
+       rozbalováním dárků. Proto tímto směrem zaměříme i následující Pyvo s
+       Rubači.
+       Máte nějaký zajímavý projekt v libovolném stádiu vývoje? Připravujete
+       něco velkého a hledáte pomocníky? Přišli jste při tvorbě vlastních
+       aplikací na něco, o co se chcete podělit s ostatními? Pak přijďte mezi
+       nás.
+       Těší se na Vás tým pořadatelů.
+
+          * Micropython
+               * Petr Viktorin
+            Jak s Pythonem blikat světýlkama a točit motorkama
+     * 6. 11. 2014 · 19:00 Ostravské Pyvo s Rubači – Testovací
+       V. R. Levský, Škroupova 1114/4
+
+       Zdá se to téměř neuvěřitelné, ale už je to rok, co se dvojice nadšenců
+       z Brna poprvé rozhodla rozšířit pole působnosti Pyva i do našich luhů
+       a hájů.
+       Velký dík patří jim i Vám všem, kteří to s námi již rok táhnete.
+       Na výroční Pyvo pro Vás máme jedno velké překvapení. Počínaje
+       listopadem dojde ke spojení srazů příznivců jazyka Python a Ruby do
+       jednoho, kde se tak budete moci dozvídat novinky i mimo Python. Věřím,
+       že to pro obě komunity bude skvělé oživení a příležitost naučit se
+       něco nového.
+       Prvním tématem, které si společně vezmeme na paškál, bude testování.
+       Podíváme se na testování nejprve obecně. Zjistíme proč je důležité a
+       co do vývoje aplikací může přinést. Následně si ukážeme jednoduché
+       způsoby testování, které zvládne každý a pak přikročíme ke složitějším
+       a o to komplexnějším metodám.
+       Sejdeme se již tradičně v restauraci V. R. Levský nedaleko Stodolní
+       ulice ve čtvrtek 6. listopadu v 19:00.
+       Těšíme se na Vás.
+
+          * [IMG] 
+            Testování obecně
+               * Daniel Dimitrov
+          * [IMG] 
+            import pytest
+               * Petr Viktorin
+     * 2. 10. 2014 · 19:00 Ostravské Pyvo – Balíš. balím, balíme
+       V. R. Levský, Škroupova 1114/4
+          * Od obřího skriptu k modulům
+               * Lumír Frenzy Balhar
+          * Jak zveřejnit knihovnu
+               * Petr Viktorin
+          * Jak sbalit webovou appku na requirements.txt a jak ji vzít na
+            romantickou procházku po vřesovištích NP Heroku
+               * Honza Javorek
+     * 4. 9. 2014 · 19:11 AsyncIO
+       V. R. Levský, Škroupova 1114/4
+     * 7. 8. 2014 · 19:00 Ostravské KinoPyvo
+       V. R. Levský, Škroupova 1114/4
+
+       I uprostřed léta se můžete těšit na oblíbené setkání u Pyva. Zub
+       dovolených se nemilosrdně zakousl i do našich rozvrhů a rozvrhů našich
+       speakrů a tak nestíháme vytvořit vlastní přednášky a ucelený program s
+       jednotným tématem. Nemusíte se ale bát, nuda určitě nebude. Připravili
+       jsme si pro Vás malý výběr toho nejlepšího, co nabízí internetové
+       videoarchívy a tak nám na Pyvu budou přednášet nejzvučnější světová
+       jména a celebrity z oblasti IT.
+       Uvidíme se opět první čtvrtek v srpnu v restauraci V. R. Levský poblíž
+       Stodolní ulice.
+       Fantazii a iniciativě se sampzřejmě meze nekladou, takže pokud máte
+       nějaké tipy či nápady na zajímavá témata, neváhejte nám je poslat na
+       ostrava-pyvo@googlegroups.com
+       Těšíme se na Vás (a na kolořízek)
+       ~Pořadatelé
+
+     * 3. 7. 2014 · 19:00 Červencové – O Pythonu 3
+       V. R. Levský, Škroupova 1114/4
+     * 5. 6. 2014 · 19:00 Ostravské Pyvo – Paralelní
+       V. R. Levský, Škroupova 1114/4
+          * Paralelizace v Pythonu
+          * Gevent
+               * Honza Javorek
+          * [IMG] 
+            Async & asyncio
+               * Petr Viktorin
+     * 1. 5. 2014 · 10:00 Ostravské Pyvo – Májové (oddechové)
+       Ostrava
+     * 3. 4. 2014 · 19:00 Ostravské Pyvo – Dubnové
+       V. R. Levský, Škroupova 1114/4
+     * 6. 3. 2014 · 19:00 Ostravské Pyvo – Verzovací systémy
+       Sport Club, Vítězná 2, Moravská Ostrava, 70200
+     * 6. 2. 2014 · 19:00 Ostravské Pyvo – Únorové
+       Sport Club, Vítězná 2, Moravská Ostrava, 70200
+     * 16. 1. 2014 · 19:00 Ostravské Pyvo – Lednové
+       Sport Club, Vítězná 2, Moravská Ostrava, 70200
+     * 4. 12. 2013 · 19:00 Ostravské Pyvo – Druhé
+       Sport Club, Vítězná 2, Moravská Ostrava, 70200
+          * Co že jsou to ty iterátory?
+               * Petr Viktorin
+     * 7. 11. 2013 · 19:00 Ostravské Pyvo – První
+       Ires (SC OSTRAVA), Budečská 3214/4, Ostrava, 70200
+          * (Ne)bojím se IPv6
+               * Lumír Frenzy Balhar
+          * Python funkcionálně
+               * Martin Putniorz
+   Stránky spravuje občanské sdružení Pyvec, o.s.. E-maily posílejte na
+   info@pyvec.org, tweetujte na @pyvec.
+   Tyhle stránky jsou na Githubu. Pull requesty vítány!
+   Hostováno u Roští.cz. Děkujeme!
