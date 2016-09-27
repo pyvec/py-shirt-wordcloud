@@ -206,7 +206,14 @@ def make_wordcloud(context, img):
         mask=img,
        ).generate_from_frequencies(frequencies_for_context(context))
 
-array = (make_wordcloud('blog', blue_img).to_array() +
-         make_wordcloud('pyvo', yellow_img).to_array())
+blue_array = make_wordcloud('blog', blue_img).to_array()
+yellow_array = make_wordcloud('pyvo', yellow_img).to_array()
+
+array = blue_array + yellow_array
+
+print('Saving images')
 
 Image.fromarray(array).save("wordcloud.png")
+
+Image.fromarray(blue_array).save("wordcloud-blue.png")
+Image.fromarray(yellow_array).save("wordcloud-yellow.png")
