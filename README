@@ -1,0 +1,12 @@
+Hacky script to generate a wordcloud for the Czech Python community.
+
+Requires Python 3, make, and links installed.
+
+How to run this:
+
+* Clone with submodules: git clone --recursive, or clone and then:
+
+     git submodule init
+     git submodule update
+
+* Run `make`
