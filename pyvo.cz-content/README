@@ -1,0 +1,4 @@
+This directory should contain dumps of pyvo.cz.
+Run `make` in the parent directory to populate it.
+
+This requires having "links" installed.

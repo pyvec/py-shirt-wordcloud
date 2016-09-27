@@ -194,7 +194,7 @@ def make_wordcloud(context, img):
     print('Making wordcloud:', context)
     return WordCloud(
         #font_path='flux.ttf',
-        font_path='/home/pviktori/.fonts/gf/BreeSerif-Regular.ttf',
+        font_path='./3rd-party/breeserif/BreeSerif-Regular.ttf',
         background_color='black',
         width=1372,
         height=1372,

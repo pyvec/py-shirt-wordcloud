@@ -1,0 +1,6 @@
+[submodule "blog.python.cz"]
+	path = blog.python.cz
+	url = https://github.com/pyvec/blog.python.cz
+[submodule "pyladies.cz"]
+	path = pyladies.cz
+	url = git@github.com:encukou/pyladies.cz.git
