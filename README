@@ -1,6 +1,6 @@
 Hacky script to generate a wordcloud for the Czech Python community.
 
-Requires Python 3, make, and links installed.
+Requires Python 3, make, potrace, convert and links installed.
 
 How to run this:
 
