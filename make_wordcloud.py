@@ -24,7 +24,8 @@ more_stopwords = {'na', 'se', '38a', 'www', 'je', 'co', 'si', 'cz', 'po', 'že',
                   'máš', 'musí', 'tam', 'ti', 'pod', 'ní', 'tomu', 'tu', 'kdy',
                   'jsem', 'atd', 'byli', 'své', 'má', 'https', 'ho', 'jpg',
                   'budu', 'jsme', 'images', 'měl', 'byla', 'jen', 'min', 'ale',
-                  'ne', 'nic', 'toho', 'mě', 'html'}
+                  'ne', 'nic', 'toho', 'mě', 'html', 'nám',
+                  'brno', 'praha', 'ostrava'}
 STOPWORDS = STOPWORDS.union(more_stopwords)
 
 class Term:
@@ -73,9 +74,14 @@ def text_to_frequencies(text):
     words = words.replace('Vejrazka', 'Vejražka')
     words = words.replace('Jiri', 'Jiří')
     words = words.replace('Ales', 'Aleš')
+    words = words.replace('Verca', 'Verča')
     words = words.replace('open source', 'open source')
     words = words.replace('python', 'Python')
     words = words.replace('Roudnice_nad_Labem', 'Roudnice nad Labem')
+    words = words.replace('Pythonu', 'Python')
+    words = words.replace('brnenske', 'Brněnské')
+    words = words.replace('brněnské', 'Brněnské')
+    words = words.replace('honzajavorek', 'Honza Javorek')
 
     words = re.split('[][ \n\t.,:;!?()/@*-]+', words)
     counter = collections.Counter(w for w in words if
@@ -84,7 +90,17 @@ def text_to_frequencies(text):
                                 len(w) > 1 and
                                 re.match('^[^<>={}%_]*[a-z][^<>={}%_]*$', w))
 
-    counter['Praha'] = counter['Brno'] = counter['Ostrava'] = 0
+    if counter.get('Petr'):
+        counter['Petr'] = counter.get('Honza', 0)
+    if counter.get('Viktorin'):
+        counter['Viktorin'] = counter.get('Javorek', 0)
+    if counter.get('Na Věnečku'):
+        counter['Na Věnečku'] /= 2
+    if counter.get('Ostrovského'):
+        counter['Ostrovského'] /= 2
+    counter['Pražské'] = counter['Brněnské'] = counter['Ostravské'] = (
+        counter.get('Pražské', 0) + counter.get('Brněnské', 0)
+        + counter.get('Ostravské', 0)) / 3
     return counter
 
 def add_text(text, context, bias=1):
@@ -128,9 +144,9 @@ for dirpath, dirnames, filenames in os.walk('./blog.python.cz/content'):
 
 
 print(len(term_dict), 'terms')
-for i in range(8):
-    nam, term = term_dict.popitem()
-    print(nam, term, term.word, term.occurences, term.context, term.variants, term.contexts)
+print(term_dict['brnenske'].variants)
+print(term_dict['prazske'].variants)
+print(term_dict['ostravske'].variants)
 for ctx in set(t.context for t in term_dict.values()):
     print(ctx, len(frequencies_for_context(ctx)))
 
