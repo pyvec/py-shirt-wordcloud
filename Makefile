@@ -1,7 +1,7 @@
 
 all: wordcloud.png wordcloud.svg wordcloud-small.png
 
-wordcloud.png wordcloud-blue.png wordcloud-yellow.png: make_wordcloud.py pyvo.cz-content/brno.txt pyvo.cz-content/praha.txt pyvo.cz-content/ostrava.txt
+wordcloud.png wordcloud-blue.png wordcloud-yellow.png: make_wordcloud.py pyvo.cz-content/brno.txt pyvo.cz-content/praha.txt pyvo.cz-content/ostrava.txt pyvec-slack-export.zip
 	python3 make_wordcloud.py
 
 %.bmp: %.png
@@ -25,5 +25,9 @@ clean:
 
 wordcloud-small.png: wordcloud.png
 	convert $< -thumbnail 1000x1000 $@
+
+pyvec-slack-export.zip:
+	echo "Unfortunately, the Slack message history is not public. Please go to https://pyvec.slack.com/services/export and save the exported file as pyvec-slack-export.zip"
+	exit 1
 
 .PHONY: clean all

@@ -4,6 +4,9 @@ import os
 import subprocess
 import unicodedata
 import random
+import zipfile
+import io
+import json
 
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import numpy as np
@@ -54,7 +57,7 @@ class Term:
     @property
     def context(self):
         for context, n in self.contexts.most_common():
-            if context != 'materialy':
+            if context in ('pyvo', 'blog'):
                 return context
 
 
@@ -83,7 +86,7 @@ def text_to_frequencies(text):
     words = words.replace('brněnské', 'Brněnské')
     words = words.replace('honzajavorek', 'Honza Javorek')
 
-    words = re.split('[][ \n\t.,:;!?()/@*-]+', words)
+    words = re.split('[][ \n\t.,:;!?()/@*"\'-]+', words)
     counter = collections.Counter(w for w in words if
                                 w not in STOPWORDS and
                                 w.lower() not in STOPWORDS and
@@ -141,6 +144,16 @@ for dirpath, dirnames, filenames in os.walk('./blog.python.cz/content'):
                 while f.readline().strip():
                     "skip block of declarations before first newline"
                 add_text(f.read(), 'blog')
+
+with zipfile.ZipFile('pyvec-slack-export.zip') as zf:
+    for name in zf.namelist():
+        if name.endswith('.json'):
+            with zf.open(name) as f:
+                f = io.TextIOWrapper(f, encoding='utf-8')
+                for message in json.load(f):
+                    text = message.get('text')
+                    if text and message['type'] == 'message':
+                        add_text(text, 'slack')
 
 
 print(len(term_dict), 'terms')
@@ -201,7 +214,7 @@ def make_wordcloud(context, img):
         prefer_horizontal=0.8,
         max_words=500,
         relative_scaling=0.5,
-        scale=7,
+        #scale=7,
         color_func=color_func,
         mask=img,
        ).generate_from_frequencies(frequencies_for_context(context))
