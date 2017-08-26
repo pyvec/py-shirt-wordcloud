@@ -24,7 +24,10 @@ more_stopwords = {'na', 'se', '38a', 'www', 'je', 'co', 'si', 'cz', 'po', 'že',
                   'máš', 'musí', 'tam', 'ti', 'pod', 'ní', 'tomu', 'tu', 'kdy',
                   'jsem', 'atd', 'byli', 'své', 'má', 'https', 'ho', 'jpg',
                   'budu', 'jsme', 'images', 'měl', 'byla', 'jen', 'min', 'ale',
-                  'ne', 'nic', 'toho', 'mě', 'html', 'nám',
+                  'ne', 'nic', 'toho', 'mě', 'html', 'nám', 'tento', 'org',
+                  'takže', 'něco', 'může', 'můžete', 'jak', 'tom', 'tedy',
+                  'ještě', 'pokud', 'pomocí', 'všechno', 'všechny', 'další',
+                  'weight', 'color', 'bold', 'font', '350px', '0m', 'např',
                   'brno', 'praha', 'ostrava'}
 STOPWORDS = STOPWORDS.union(more_stopwords)
 
@@ -77,27 +80,42 @@ def text_to_frequencies(text):
     words = words.replace('Verca', 'Verča')
     words = words.replace('open source', 'open source')
     words = words.replace('python', 'Python')
+    words = words.replace('github', 'GitHub')
+    words = words.replace('pycon', 'PyCon')
+    words = words.replace('PyCon CZ', 'PyCon CZ')
+    words = words.replace('twitter', 'Twitter')
     words = words.replace('Roudnice_nad_Labem', 'Roudnice nad Labem')
     words = words.replace('Pythonu', 'Python')
     words = words.replace('brnenske', 'Brněnské')
     words = words.replace('brněnské', 'Brněnské')
     words = words.replace('honzajavorek', 'Honza Javorek')
+    words = words.replace('cisla', 'čísla')
+    words = words.replace('pyvec', 'Pyvec')
 
-    words = re.split('[][ \n\t.,:;!?()/@*-]+', words)
+    words = re.split('[][ \n\t`$".,:;!?()/@*-]+', words)
     counter = collections.Counter(w for w in words if
                                 w not in STOPWORDS and
                                 w.lower() not in STOPWORDS and
                                 len(w) > 1 and
-                                re.match('^[^<>={}%_]*[a-z][^<>={}%_]*$', w))
+                                re.match(r'^[^#\\<>={}%_]*[a-z][^<>={}%_]*$', w))
+
+    counter['python.cz'] = counter['Python']
+    del counter['Python']
 
     if counter.get('Petr'):
-        counter['Petr'] = counter.get('Honza', 0)
+        counter['Petr'] = min(counter.get('Honza', 0), counter.get('Petr', 0))
+    if counter.get('Honza'):
+        counter['Honza'] = min(counter.get('Honza', 0), counter.get('Petr', 0))
     if counter.get('Viktorin'):
-        counter['Viktorin'] = counter.get('Javorek', 0)
+        counter['Viktorin'] = min(counter.get('Javorek', 0), counter.get('Viktorin', 0))
+    if counter.get('Javorek'):
+        counter['Javorek'] = min(counter.get('Javorek', 0), counter.get('Viktorin', 0))
     if counter.get('Na Věnečku'):
         counter['Na Věnečku'] /= 2
     if counter.get('Ostrovského'):
         counter['Ostrovského'] /= 2
+    if counter.get('print'):
+        counter['print'] /= 1.5
     counter['Pražské'] = counter['Brněnské'] = counter['Ostravské'] = (
         counter.get('Pražské', 0) + counter.get('Brněnské', 0)
         + counter.get('Ostravské', 0)) / 3
@@ -141,6 +159,14 @@ for dirpath, dirnames, filenames in os.walk('./blog.python.cz/content'):
                 while f.readline().strip():
                     "skip block of declarations before first newline"
                 add_text(f.read(), 'blog')
+
+
+for dirpath, dirnames, filenames in os.walk('./naucse.python.cz/lessons'):
+    for filename in filenames:
+        if filename.endswith(('.md', '.html')):
+            fullname = os.path.join(dirpath, filename)
+            with open(fullname) as f:
+                add_text(f.read(), 'materialy')
 
 
 print(len(term_dict), 'terms')

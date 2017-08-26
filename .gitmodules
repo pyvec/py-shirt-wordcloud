@@ -4,3 +4,6 @@
 [submodule "pyladies.cz"]
 	path = pyladies.cz
 	url = git@github.com:encukou/pyladies.cz.git
+[submodule "naucse.python.cz"]
+	path = naucse.python.cz
+	url = https://github.com/pyvec/naucse.python.cz
