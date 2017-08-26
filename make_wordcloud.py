@@ -19,7 +19,7 @@ more_stopwords = {'na', 'se', '38a', 'www', 'je', 'co', 'si', 'cz', 'po', 'že',
                   'od', 'než', 'nás', 'tak', 'na', 'za', 'pro', 'ale', 'už',
                   'či', 'cca', 'již', 'ke', 'pak', 'ze', 'až', 'při', 'kde',
                   'dá', 'ať', 'tím', 've', 'kdo', 'který', 'která', 'které',
-                  'když', 'nebo', 'angl', 'aby', 'být', 'třeba', 'před',
+                  'když', 'nebo', 'angl', 'aby', 'být', 'třeba', 'před', '36m',
                   'přes', 'nich', 'což', 'není', 'jsi', 'měla', 'jako', 'jsou',
                   'máš', 'musí', 'tam', 'ti', 'pod', 'ní', 'tomu', 'tu', 'kdy',
                   'jsem', 'atd', 'byli', 'své', 'má', 'https', 'ho', 'jpg',
@@ -83,7 +83,10 @@ def text_to_frequencies(text):
     words = words.replace('github', 'GitHub')
     words = words.replace('pycon', 'PyCon')
     words = words.replace('PyCon CZ', 'PyCon CZ')
+    words = words.replace('PyCon', 'PyCon CZ')
+    words = words.replace('PyCon CZ CZ', 'PyCon CZ')
     words = words.replace('twitter', 'Twitter')
+    words = words.replace('facebook', 'Facebook')
     words = words.replace('Roudnice_nad_Labem', 'Roudnice nad Labem')
     words = words.replace('Pythonu', 'Python')
     words = words.replace('brnenske', 'Brněnské')
@@ -116,6 +119,8 @@ def text_to_frequencies(text):
         counter['Ostrovského'] /= 2
     if counter.get('print'):
         counter['print'] /= 1.5
+    if counter.get('GitHub'):
+        counter['GitHub'] /= 2
     counter['Pražské'] = counter['Brněnské'] = counter['Ostravské'] = (
         counter.get('Pražské', 0) + counter.get('Brněnské', 0)
         + counter.get('Ostravské', 0)) / 3
