@@ -11,8 +11,8 @@ from PIL import Image
 from scipy.misc import imread
 
 coloring = np.array(Image.open("logo.png"))
-blue_img = np.array(Image.open("logo-blue.png"))
-yellow_img = np.array(Image.open("logo-yellow.png"))
+blue_img = np.array(Image.open("logo-blue-margin.png"))
+yellow_img = np.array(Image.open("logo-yellow-margin.png"))
 background_img = np.array(Image.open("logo-background.png"))
 
 more_stopwords = {'na', 'se', '38a', 'www', 'je', 'co', 'si', 'cz', 'po', 'že',
